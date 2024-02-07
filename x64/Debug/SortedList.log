@@ -1,0 +1,13 @@
+﻿  SortedList.cpp
+C:\Users\TECH CLOUD\source\repos\SortedList\SortedList.cpp(26,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\TECH CLOUD\source\repos\SortedList\SortedList.cpp(52,12): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\TECH CLOUD\source\repos\SortedList\SortedList.cpp(54,42): warning C4018: '<': signed/unsigned mismatch
+C:\Users\TECH CLOUD\source\repos\SortedList\SortedList.cpp(66,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\TECH CLOUD\source\repos\SortedList\SortedList.cpp(97,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\TECH CLOUD\source\repos\SortedList\SortedList.cpp(101,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\TECH CLOUD\source\repos\SortedList\SortedList.cpp(121,12): warning C4018: '>': signed/unsigned mismatch
+C:\Users\TECH CLOUD\source\repos\SortedList\SortedList.cpp(123,42): warning C4018: '<': signed/unsigned mismatch
+C:\Users\TECH CLOUD\source\repos\SortedList\SortedList.cpp(155,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\TECH CLOUD\source\repos\SortedList\SortedList.cpp(58): warning C4715: 'SortedList::getValue': not all control paths return a value
+C:\Users\TECH CLOUD\source\repos\SortedList\SortedList.cpp(86): warning C4715: 'SortedList::findValue': not all control paths return a value
+  SortedList.vcxproj -> C:\Users\TECH CLOUD\source\repos\SortedList\x64\Debug\SortedList.exe
